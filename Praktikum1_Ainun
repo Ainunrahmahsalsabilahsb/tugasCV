@@ -1,0 +1,98 @@
+<html>
+    <head>
+    <title>CURRICULUM VITAE</title>
+
+    </head>
+    <body>
+    <h1 align=center>CURRICULUM VITAE</h1>
+    <!--INFORMASI DATA DIRI-->
+        <hr>
+        <b>PERSONAL INFORMATION</b>
+        <hr>
+        <table style="width:50%">
+            <!--FOTO-->
+            <img src="foto/gambar.jpg.jpeg" align="right" width="104" height="142">
+        <tr>
+        <th></th>
+        <th></th>
+        </tr>
+        <tr>
+            <td>Nama Lengkap</td>
+            <td>: Ainun Rahmah Salsabila Hasibuan </td>
+        </tr>
+        <tr>
+            <td>Tempat Tanggal Lahir</td>
+            <td>: Nias , 14 Maret 2003 </td>  
+        </tr>
+            <td>Alamat</td>
+            <td>: Medan No. 345 </td>
+        <tr>
+            <td>Status</td>
+            <td>: Mahasiswa</td>
+        </tr>
+            <tr>
+            <td>NO HP</td>
+            <td>: 085664842748</td>
+        </tr>
+        <tr>
+            <td>Email</td>
+            <td>: salsabilarahmahh122@gmail.com</td>
+        </tr>
+        </table>
+    <!--RIWAYAT PENDIDIKAN FORMAL-->  
+            <hr>
+            <b>PENDIDIKAN FORMAL</b>
+            <hr>
+                <table style="width:80%">
+            <tr>
+            <th></th>
+            <th></th>
+            </tr>
+            <tr>
+                <td>2018-2021</td>
+                <td>MAN 1 Padangsidempuan </td>
+            </tr>
+            <tr>
+                <td>2015-2018</td>
+                <td>SMP N 3 Padangsidempuan </td>  
+            </tr>
+                <td>2009-2015</td>
+                <td>SDN 200116 Padangsidempuan </td>
+            <tr>
+                <td>2008-2009</td>
+                <td>TK Haholongan Padangsidempuan </td>
+            </tr>
+            </table>
+    <!--RIWAYAT PENDIDIKAN INFORMAL-->      
+                    <hr>
+                    <b>PENDIDIKAN INFORMAL</b>
+                    <hr>
+                        <table style="width:110%">
+                    <tr>
+                    <th></th>
+                    <th></th>
+                    </tr>
+                    <tr>
+                        <td>2014-2015</td>
+                        <td>Sekolah Tinggi Teknologi Terpadu Nurul Fikri - Teknik Informatika </td>
+                    </tr>
+                    
+                    </table>
+    <!-- RIWAYAT ORGANISASI-->
+                            <hr>
+                            <b>ORGANISASI</b><hr>
+                            <table style="width:180%">
+                        <tr>
+                        <th></th>
+                        <th></th>
+                        </tr>
+                        <tr>
+                            <td>2020</td>
+                            <td>Anggota Osis</td>
+                        </tr>
+                       
+                        </table>
+   
+    
+    </body>
+</html>
